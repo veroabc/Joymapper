@@ -5,6 +5,20 @@
 ###The last code is under this name joystick_test.py. If you want to implement the code, you should be shure that you have virtual environment for Python3.
 If you have all extensions you can download it here:
 
+sudo apt install wget
+sudo wget https://github.com/veroabc/Joymapper/blob/master/scripts/joystick_test.py
+#file open or
+python joystick_test.py 
+#check the file/ if you use raspi "nano" or "thonny"
+
+thonny joystick_test.py
+sudo nano joystick_test.py
+
+#the script schould open the game, install the game before running the code
+sudo apt install frozen-bubble
+
+
+
 
 
 
